@@ -1,4 +1,5 @@
-### Hi there 👋
+# Sterling Watts
+[![Sterling's GitHub Banner](./assets/background.jpg)]
 
 <!--
 **SterlingDWatts/SterlingDWatts** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
